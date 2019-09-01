@@ -44,3 +44,4 @@
 - [Alexander Rohde](https://github.com/a1x42)
 - [Shreyansh Khajanchi](https://shreyanshja.in)
 - [Lionel Brianto](https://lionel.brianto.dev)
+- [Nico Alt](https://nico.dorfbrunnen.eu/)
